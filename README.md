@@ -1,4 +1,4 @@
 # app
 
-https://autily.github.io/app/app/index.html
+https://autily.github.io/app/index.html
 
